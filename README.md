@@ -1,3 +1,2 @@
 # Norm_paper
-# try-out for collaboration
-# 
+# Timeline: 2 or 3 days
